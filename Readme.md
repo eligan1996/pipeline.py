@@ -35,6 +35,7 @@ python3 pipeline.py
 - Accept threshold as a command line argument
 - Send one summary email instead of one per product
 - Track specific products by name
+- Add a separate "alerts" CSV that logs only prices below threshold
 
 ## Output
 - Saves all the scraped prices to prices.csv with timestamps
